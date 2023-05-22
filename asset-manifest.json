@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OTP-Fb/static/css/main.a26f3974.css",
+    "main.js": "/OTP-Fb/static/js/main.479e3eec.js",
+    "static/js/787.1b66ef26.chunk.js": "/OTP-Fb/static/js/787.1b66ef26.chunk.js",
+    "index.html": "/OTP-Fb/index.html",
+    "main.a26f3974.css.map": "/OTP-Fb/static/css/main.a26f3974.css.map",
+    "main.479e3eec.js.map": "/OTP-Fb/static/js/main.479e3eec.js.map",
+    "787.1b66ef26.chunk.js.map": "/OTP-Fb/static/js/787.1b66ef26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a26f3974.css",
+    "static/js/main.479e3eec.js"
+  ]
+}
